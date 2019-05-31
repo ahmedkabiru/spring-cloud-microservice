@@ -1,0 +1,3 @@
+
+squid:UselessImportCheck"TRemove this unused import 'org.springframework.cloud.netflix.hystrix.EnableHystrix'.(Ç©ä­8ìŽÞê°-
+‘squid:UselessImportCheck"aRemove this unused import 'org.springframework.cloud.client.circuitbreaker.EnableCircuitBreaker'.(ÏÊØ¡ÿÿÿÿÿ8¿ñ…í°-

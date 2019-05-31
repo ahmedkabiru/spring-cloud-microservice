@@ -1,0 +1,6 @@
+#turbine:
+#  appConfig: WRITING,READING
+#  clusterNameExpression: new String('default')
+
+server:
+  port: 8889

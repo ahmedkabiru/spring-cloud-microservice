@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="auth-service" />
+        <module name="config-service" />
+        <module name="gateway-service" />
+        <module name="monitoring" />
+        <module name="registry-service" />
+        <module name="springcloud" />
+        <module name="test-service" />
+        <module name="turbine-stream-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="auth-service" target="11" />
+      <module name="config-service" target="11" />
+      <module name="gateway-service" target="11" />
+      <module name="monitoring" target="11" />
+      <module name="registry-service" target="11" />
+      <module name="registrys-service" target="11" />
+      <module name="test-service" target="11" />
+      <module name="turbine-stream-service" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="auth-service" options="-parameters" />
+      <module name="config-service" options="-parameters" />
+      <module name="gateway-service" options="-parameters" />
+      <module name="monitoring" options="-parameters" />
+      <module name="registry-service" options="-parameters" />
+      <module name="registrys-service" options="-parameters" />
+      <module name="test-service" options="-parameters" />
+      <module name="turbine-stream-service" options="-parameters" />
+    </option>
+  </component>
+</project>

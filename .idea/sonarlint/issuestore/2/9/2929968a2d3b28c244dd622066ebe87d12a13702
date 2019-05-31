@@ -1,0 +1,7 @@
+
+ƒsquid:UselessImportCheck"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡ž¸Îùÿÿÿÿ8ºÆšÂ°-
+nsquid:CommentedOutCodeLineL"<This block of commented-out lines of code should be removed.(Èä’€ûÿÿÿÿ8¢ßÄÆ°-
+ƒsquid:S00116"_Rename this field "NOOP_PASSWORD_ENCODE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÅ“þþÿÿÿÿ8É¤ŒÂ°-
+ysquid:S2068"V'PASSWORD' detected in this expression, review this potentially hard-coded credential.(äÅ“þþÿÿÿÿ8É¤ŒÂ°-
+Dsquid:S1170"!Make this final field static too.(äÅ“þþÿÿÿÿ8É¤ŒÂ°-
+˜squid:UselessImportCheck"hRemove this unused import 'org.springframework.security.oauth2.provider.token.store.InMemoryTokenStore'.(²¤µÒùÿÿÿÿ8–’È°-

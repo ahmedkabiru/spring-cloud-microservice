@@ -1,0 +1,17 @@
+spring:
+  cloud:
+    config:
+      server:
+        native:
+          search-locations: classpath:/config  # this tell spring where to locate the config file
+  profiles:
+    active: native #we are using native because the config server uses a git repo by default
+
+server:
+  port: 8888 #the port where the config-server will be acessible
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
