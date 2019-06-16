@@ -2,677 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d3ff0da9-403a-4205-ab5c-428a8edef5e8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/com/hamsoft/ArrayAlgo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/com/hamsoft/ArrayPairSum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/com/hamsoft/FindNumber.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/com/hamsoft/ReverseString.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/com/hamsoft/SearchAlgo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/com/hamsoft/SingletonClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/com/hamsoft/SortAlgo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Algorithms/src/com/hamsoft/ArrayAlgo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Algorithms/src/com/hamsoft/ArrayPairSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Algorithms/src/com/hamsoft/FindNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Algorithms/src/com/hamsoft/ReverseString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Algorithms/src/com/hamsoft/SearchAlgo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Algorithms/src/com/hamsoft/SingletonClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Algorithms/src/com/hamsoft/SortAlgo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AuditTrail" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Autorizador-Portal" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GamesStore-eCommerce-SpringBoot-Hib-MySQL" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MockitoTutorialForBeginners-master.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MockitoTutorialForBeginners-master/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MockitoTutorialForBeginners-master/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MockitoTutorialForBeginners-master/MockitoTutorialForBeginners.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MockitoTutorialForBeginners-master/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MockitoTutorialForBeginners-master/Step01.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MockitoTutorialForBeginners-master/Step02.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MockitoTutorialForBeginners-master/Step03.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MockitoTutorialForBeginners-master/Step04.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MockitoTutorialForBeginners-master/Step05.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MockitoTutorialForBeginners-master/Step06.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MockitoTutorialForBeginners-master/Step07.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MockitoTutorialForBeginners-master/Step08.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MockitoTutorialForBeginners-master/Step09.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MockitoTutorialForBeginners-master/Step10.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MockitoTutorialForBeginners-master/Step11.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MockitoTutorialForBeginners-master/Step12.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MockitoTutorialForBeginners-master/Step13.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MockitoTutorialForBeginners-master/Step14.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MockitoTutorialForBeginners-master/Step15.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MockitoTutorialForBeginners-master/Step16.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MockitoTutorialForBeginners-master/Step17.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MockitoTutorialForBeginners-master/Step18.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MockitoTutorialForBeginners-master/StepReference.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MockitoTutorialForBeginners-master/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MockitoTutorialForBeginners-master/src/main/java/com/in28minutes/business/TodoBusinessImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MockitoTutorialForBeginners-master/src/main/java/com/in28minutes/data/api/TodoService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MockitoTutorialForBeginners-master/src/main/java/com/in28minutes/junit/business/ClientBO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MockitoTutorialForBeginners-master/src/main/java/com/in28minutes/junit/business/ClientBOImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MockitoTutorialForBeginners-master/src/main/java/com/in28minutes/junit/business/exception/DifferentCurrenciesException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MockitoTutorialForBeginners-master/src/main/java/com/in28minutes/junit/helper/StringHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MockitoTutorialForBeginners-master/src/main/java/com/in28minutes/junit/model/Amount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MockitoTutorialForBeginners-master/src/main/java/com/in28minutes/junit/model/AmountImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MockitoTutorialForBeginners-master/src/main/java/com/in28minutes/junit/model/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MockitoTutorialForBeginners-master/src/main/java/com/in28minutes/junit/model/ClientImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MockitoTutorialForBeginners-master/src/main/java/com/in28minutes/junit/model/ClientType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MockitoTutorialForBeginners-master/src/main/java/com/in28minutes/junit/model/Collateral.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MockitoTutorialForBeginners-master/src/main/java/com/in28minutes/junit/model/CollateralImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MockitoTutorialForBeginners-master/src/main/java/com/in28minutes/junit/model/CollateralType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MockitoTutorialForBeginners-master/src/main/java/com/in28minutes/junit/model/Currency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MockitoTutorialForBeginners-master/src/main/java/com/in28minutes/junit/model/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MockitoTutorialForBeginners-master/src/main/java/com/in28minutes/junit/model/ProductImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MockitoTutorialForBeginners-master/src/main/java/com/in28minutes/junit/model/ProductType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MockitoTutorialForBeginners-master/src/main/java/com/in28minutes/powermock/SystemUnderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MockitoTutorialForBeginners-master/src/main/java/com/in28minutes/powermock/UtilityClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MockitoTutorialForBeginners-master/src/test/java/com/clarity/business/ClientBOTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MockitoTutorialForBeginners-master/src/test/java/com/clarity/business/ClientBOTestRefactored.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MockitoTutorialForBeginners-master/src/test/java/com/in28minutes/business/TodoBusinessImplMockitoInjectMocksTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MockitoTutorialForBeginners-master/src/test/java/com/in28minutes/business/TodoBusinessImplMockitoRulesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MockitoTutorialForBeginners-master/src/test/java/com/in28minutes/business/TodoBusinessImplMockitoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MockitoTutorialForBeginners-master/src/test/java/com/in28minutes/business/TodoBusinessImplStubTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MockitoTutorialForBeginners-master/src/test/java/com/in28minutes/data/stub/TodoServiceStub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MockitoTutorialForBeginners-master/src/test/java/com/in28minutes/junit/helper/ArraysCompareTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MockitoTutorialForBeginners-master/src/test/java/com/in28minutes/junit/helper/ArraysTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MockitoTutorialForBeginners-master/src/test/java/com/in28minutes/junit/helper/QuickBeforeAfterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MockitoTutorialForBeginners-master/src/test/java/com/in28minutes/junit/helper/StringHelperParameterizedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MockitoTutorialForBeginners-master/src/test/java/com/in28minutes/junit/helper/StringHelperTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MockitoTutorialForBeginners-master/src/test/java/com/in28minutes/junit/suite/DummyTestSuite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MockitoTutorialForBeginners-master/src/test/java/com/in28minutes/mockito/FirstMockitoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MockitoTutorialForBeginners-master/src/test/java/com/in28minutes/mockito/HamcrestMatcherTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MockitoTutorialForBeginners-master/src/test/java/com/in28minutes/mockito/ListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MockitoTutorialForBeginners-master/src/test/java/com/in28minutes/mockito/SpyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MockitoTutorialForBeginners-master/src/test/java/com/in28minutes/powermock/PowerMockitoMockingConstructorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MockitoTutorialForBeginners-master/src/test/java/com/in28minutes/powermock/PowerMockitoMockingStaticMethodTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MockitoTutorialForBeginners-master/src/test/java/com/in28minutes/powermock/PowerMockitoTestingPrivateMethodTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MockitoTutorialForBeginners.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Modern-Ecommerce" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Online-Banking-with-Java-Spring-Boot-Angular-2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecruiterHome" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../acra-task/gaps-app.apk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../acra-task/kedco-app.apk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../acra-task/out/production/acra-task/com/acra/Item.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../acra-task/out/production/acra-task/com/acra/KeyDecrypt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../acra-task/out/production/acra-task/com/acra/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../acra-task/out/production/acra-task/com/acra/MainTask.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../acra-task/out/production/acra-task/com/acra/NibssTLV.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../acra-task/out/production/acra-task/com/acra/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../acra-task/out/production/acra-task/com/acra/Testing.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../acra-task/out/production/acra-task/com/acra/TextKey.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../acra-task/out/production/acra-task/com/acra/Transaction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../acra-task/out/production/acra-task/com/acra/TripleDesCipher.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../acra-task/out/production/acra-task/com/acra/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../acra-task/out/production/acra-task/com/acra/Utils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../acra-task/out/production/acra-task/uploads/alphabeta.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../acra-task/out/production/acra-task/uploads/fcmblogo.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../acra-task/out/production/acra-task/uploads/ga-app.apk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../acra-task/out/production/acra-task/uploads/gaps-api.apk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../acra-task/out/production/acra-task/uploads/gaps-app.apk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../acra-task/out/production/acra-task/uploads/gtlogo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../acra-task/out/production/acra-task/uploads/import-config-file.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../acra-task/out/production/acra-task/uploads/kedcov1-release.apk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../acra-task/out/production/acra-task/uploads/kedcov2-release.apk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../acra-task/out/production/acra-task/uploads/kisspng-toyota-corolla-car-toyota-avensis-verso-toyota-aur-5b2e7063976e77.0159152315297700836203.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../acra-task/out/production/acra-task/uploads/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../acra-task/out/production/acra-task/uploads/pointe-v1.apk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../acra-task/out/production/acra-task/uploads/printlogo.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../acra-task/out/production/acra-task/uploads/printlogo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../acra-task/out/production/acra-task/uploads/users-with-header.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../acra-task/src/com/acra/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../acra-task/src/com/acra/KeyDecrypt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../acra-task/src/com/acra/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../acra-task/src/com/acra/MainTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../acra-task/src/com/acra/NibssTLV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../acra-task/src/com/acra/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../acra-task/src/com/acra/Testing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../acra-task/src/com/acra/TextKey.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../acra-task/src/com/acra/Transaction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../acra-task/src/com/acra/TripleDesCipher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../acra-task/src/com/acra/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../acra-task/src/com/acra/Utils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../acra-task/src/uploads/alphabeta.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../acra-task/src/uploads/fcmblogo.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../acra-task/src/uploads/ga-app.apk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../acra-task/src/uploads/gaps-api.apk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../acra-task/src/uploads/gaps-app.apk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../acra-task/src/uploads/gtlogo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../acra-task/src/uploads/import-config-file.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../acra-task/src/uploads/kedcov1-release.apk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../acra-task/src/uploads/kedcov2-release.apk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../acra-task/src/uploads/kisspng-toyota-corolla-car-toyota-avensis-verso-toyota-aur-5b2e7063976e77.0159152315297700836203.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../acra-task/src/uploads/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../acra-task/src/uploads/pointe-v1.apk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../acra-task/src/uploads/printlogo.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../acra-task/src/uploads/printlogo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../acra-task/src/uploads/users-with-header.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../algorithm/out/production/algorithm/com/hamsoft/BinarySearch.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../algorithm/out/production/algorithm/com/hamsoft/BubbleSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../algorithm/out/production/algorithm/com/hamsoft/LinkedList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../algorithm/out/production/algorithm/com/hamsoft/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../algorithm/out/production/algorithm/com/hamsoft/Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../algorithm/out/production/algorithm/com/hamsoft/SelectionSearch.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../algorithm/src/com/hamsoft/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../algorithm/src/com/hamsoft/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../algorithm/src/com/hamsoft/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../algorithm/src/com/hamsoft/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../algorithm/src/com/hamsoft/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../algorithm/src/com/hamsoft/SelectionSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-sample/src/app/app-routing.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../backup-tcs/spring-oauth2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../backup-tcs/tcs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../backup/Lastest /tcs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../backup/backuo2/tcs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../backup/backup-lastest/sn/tcs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../backup/backup-lastest/tcs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../backup/tcs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../blog/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../blog/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../blog/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../blog/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../blog/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../blog/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../blog/src/main/java/com/hamsoft/blog/BlogApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../blog/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../blog/src/test/java/com/hamsoft/blog/BlogApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../datatables-thymeleaf-starter/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../datatables-thymeleaf-starter/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../datatables-thymeleaf-starter/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../datatables-thymeleaf-starter/src/main/java/com/github/dandelion/datatables/model/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../datatables-thymeleaf-starter/src/main/java/com/github/dandelion/datatables/model/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../datatables-thymeleaf-starter/src/main/java/com/github/dandelion/datatables/model/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../datatables-thymeleaf-starter/src/main/java/com/github/dandelion/datatables/model/Town.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../datatables-thymeleaf-starter/src/main/java/com/github/dandelion/datatables/repository/PersonRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../datatables-thymeleaf-starter/src/main/java/com/github/dandelion/datatables/repository/memory/PersonMemoryRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../datatables-thymeleaf-starter/src/main/java/com/github/dandelion/datatables/service/PersonService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../datatables-thymeleaf-starter/src/main/java/com/github/dandelion/datatables/service/PersonServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../datatables-thymeleaf-starter/src/main/java/com/github/dandelion/datatables/web/SampleController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../datatables-thymeleaf-starter/src/main/resources/dandelion/app-callback.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../datatables-thymeleaf-starter/src/main/resources/dandelion/app-filtering.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../datatables-thymeleaf-starter/src/main/resources/dandelion/app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../datatables-thymeleaf-starter/src/main/resources/dandelion/dandelion.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../datatables-thymeleaf-starter/src/main/resources/logback.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../datatables-thymeleaf-starter/src/main/resources/spring/business-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../datatables-thymeleaf-starter/src/main/resources/spring/mvc-core-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../datatables-thymeleaf-starter/src/main/resources/spring/mvc-view-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../datatables-thymeleaf-starter/src/main/webapp/WEB-INF/views/advanced/callbacks.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../datatables-thymeleaf-starter/src/main/webapp/WEB-INF/views/advanced/extra-html.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../datatables-thymeleaf-starter/src/main/webapp/WEB-INF/views/advanced/extra-js.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../datatables-thymeleaf-starter/src/main/webapp/WEB-INF/views/advanced/multiple-tables.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../datatables-thymeleaf-starter/src/main/webapp/WEB-INF/views/basics/dom-positioning.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../datatables-thymeleaf-starter/src/main/webapp/WEB-INF/views/basics/filtering/enable-disable-global-filtering.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../datatables-thymeleaf-starter/src/main/webapp/WEB-INF/views/basics/filtering/exclude-column-from-global-filtering.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../datatables-thymeleaf-starter/src/main/webapp/WEB-INF/views/basics/filtering/external-form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../datatables-thymeleaf-starter/src/main/webapp/WEB-INF/views/basics/filtering/filtering-onclick.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../datatables-thymeleaf-starter/src/main/webapp/WEB-INF/views/basics/filtering/filterplaceholder.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../datatables-thymeleaf-starter/src/main/webapp/WEB-INF/views/basics/filtering/input.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../datatables-thymeleaf-starter/src/main/webapp/WEB-INF/views/basics/filtering/number-range.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../datatables-thymeleaf-starter/src/main/webapp/WEB-INF/views/basics/filtering/select-with-values.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../datatables-thymeleaf-starter/src/main/webapp/WEB-INF/views/basics/filtering/select.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../datatables-thymeleaf-starter/src/main/webapp/WEB-INF/views/basics/paging/bootstrap-full-numbers.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../datatables-thymeleaf-starter/src/main/webapp/WEB-INF/views/basics/paging/bootstrap-full.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../datatables-thymeleaf-starter/src/main/webapp/WEB-INF/views/basics/paging/bootstrap-simple.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../datatables-thymeleaf-starter/src/main/webapp/WEB-INF/views/basics/paging/defining-length-menu-options.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../datatables-thymeleaf-starter/src/main/webapp/WEB-INF/views/basics/paging/enable-disable-length-menu.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../datatables-thymeleaf-starter/src/main/webapp/WEB-INF/views/basics/paging/enable-disable-paging.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../datatables-thymeleaf-starter/src/main/webapp/WEB-INF/views/basics/paging/full-numbers.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../datatables-thymeleaf-starter/src/main/webapp/WEB-INF/views/basics/paging/full.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../datatables-thymeleaf-starter/src/main/webapp/WEB-INF/views/basics/paging/simple-numbers.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../datatables-thymeleaf-starter/src/main/webapp/WEB-INF/views/basics/paging/simple.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../datatables-thymeleaf-starter/src/main/webapp/WEB-INF/views/basics/scrolling/scroll-horizontal.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../datatables-thymeleaf-starter/src/main/webapp/WEB-INF/views/basics/scrolling/scroll-vertical.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../datatables-thymeleaf-starter/src/main/webapp/WEB-INF/views/basics/sorting/enable-disable-sorting.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../datatables-thymeleaf-starter/src/main/webapp/WEB-INF/views/basics/sorting/individual-column-sorting.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../datatables-thymeleaf-starter/src/main/webapp/WEB-INF/views/basics/sorting/naturalsort.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../datatables-thymeleaf-starter/src/main/webapp/WEB-INF/views/basics/sorting/sorting-direction-control.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../datatables-thymeleaf-starter/src/main/webapp/WEB-INF/views/basics/sorting/sorting-init-with-custom-order.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../datatables-thymeleaf-starter/src/main/webapp/WEB-INF/views/basics/sorting/sorting-init.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../datatables-thymeleaf-starter/src/main/webapp/WEB-INF/views/column-rendering/column-custom-header.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../datatables-thymeleaf-starter/src/main/webapp/WEB-INF/views/column-rendering/implicit-object.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../datatables-thymeleaf-starter/src/main/webapp/WEB-INF/views/common/head.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../datatables-thymeleaf-starter/src/main/webapp/WEB-INF/views/common/navbar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../datatables-thymeleaf-starter/src/main/webapp/WEB-INF/views/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../datatables-thymeleaf-starter/src/main/webapp/WEB-INF/views/styling/styling.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../datatables-thymeleaf-starter/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../datatables-thymeleaf-starter/src/main/webapp/assets/css/app.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../datatables-thymeleaf-starter/src/main/webapp/assets/css/yadcf-custom.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../datatables-thymeleaf-starter/src/main/webapp/assets/js/app-callbacks.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../datatables-thymeleaf-starter/src/main/webapp/assets/js/app-filtering.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../datatables-thymeleaf-starter/src/test/jmeter/datatables-thymeleaf-starter.jmx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/META-INF/persistence.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/hamsoft/demo/domain/Merchant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/hamsoft/demo/domain/Permission.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/hamsoft/demo/domain/Role.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/hamsoft/demo/domain/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/hamsoft/demo/domain/UserType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/hamsoft/demo/entity/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/hamsoft/demo/entity/Clients.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/hamsoft/demo/entity/FlywaySchemaHistory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/hamsoft/demo/entity/HibernateSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/hamsoft/demo/entity/Merchants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/hamsoft/demo/entity/MerchantsUsers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/hamsoft/demo/entity/MerchantsUsersPK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/hamsoft/demo/entity/ParameterDownloadLog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/hamsoft/demo/entity/Permission.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/hamsoft/demo/entity/Roles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/hamsoft/demo/entity/RolesPermissions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/hamsoft/demo/entity/TblMerchants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/hamsoft/demo/entity/TerminalParameters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/hamsoft/demo/entity/TransactionKeys.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/hamsoft/demo/entity/Transactions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/hamsoft/demo/entity/Users.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/hamsoft/demo/entity/UsersRoles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/hamsoft/demo/repository/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../emps-feed" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gs-accessing-data-mongodb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hr" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javascript/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javatest/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javatest/src/main/java/com/hamsoft/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javatest/src/main/java/com/hamsoft/model/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javatest/src/main/java/com/hamsoft/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javatest/target/classes/com/hamsoft/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javatest/target/classes/com/hamsoft/model/Address.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javatest/target/classes/com/hamsoft/model/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jcard/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jcard/src/main/java/com/hamsoft/jcard/Card.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jcard/src/main/java/com/hamsoft/jcard/ExpirationDate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jcard/src/main/java/com/hamsoft/jcard/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jcard/src/main/java/com/hamsoft/jcard/enums/Brand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jcard/target/classes/com/hamsoft/jcard/Card.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jcard/target/classes/com/hamsoft/jcard/ExpirationDate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jcard/target/classes/com/hamsoft/jcard/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jcard/target/classes/com/hamsoft/jcard/enums/Brand.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jhipster-sample-app" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jhipster4-demo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../junit-mockito-springboot-master.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../junit-mockito-springboot-master/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../junit-mockito-springboot-master/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../junit-mockito-springboot-master/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../junit-mockito-springboot-master/src/main/java/es/sm2baleares/tinglao/SampleApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../junit-mockito-springboot-master/src/main/java/es/sm2baleares/tinglao/controller/SampleController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../junit-mockito-springboot-master/src/main/java/es/sm2baleares/tinglao/exception/OrderAlreadyExistsException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../junit-mockito-springboot-master/src/main/java/es/sm2baleares/tinglao/exception/OrderException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../junit-mockito-springboot-master/src/main/java/es/sm2baleares/tinglao/external/service/DeliveryScoreService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../junit-mockito-springboot-master/src/main/java/es/sm2baleares/tinglao/external/service/EmailService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../junit-mockito-springboot-master/src/main/java/es/sm2baleares/tinglao/external/service/OrderStorageService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../junit-mockito-springboot-master/src/main/java/es/sm2baleares/tinglao/external/service/impl/DeliveryScoreServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../junit-mockito-springboot-master/src/main/java/es/sm2baleares/tinglao/external/service/impl/OrderStorageServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../junit-mockito-springboot-master/src/main/java/es/sm2baleares/tinglao/factory/EmailServiceFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../junit-mockito-springboot-master/src/main/java/es/sm2baleares/tinglao/model/Discount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../junit-mockito-springboot-master/src/main/java/es/sm2baleares/tinglao/model/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../junit-mockito-springboot-master/src/main/java/es/sm2baleares/tinglao/service/AmazonDeliveryService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../junit-mockito-springboot-master/src/main/java/es/sm2baleares/tinglao/service/impl/AmazonDeliveryServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../junit-mockito-springboot-master/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../junit-mockito-springboot-master/src/test/java/es/sm2baleares/tinglao/service/impl/AmazonDeliveryServiceImplTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../learn-kotlin/src/com/hamsoft/Attribute.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../learn-kotlin/src/com/hamsoft/BankAccount.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../learn-kotlin/src/com/hamsoft/Calculator.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../learn-kotlin/src/com/hamsoft/Car.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../learn-kotlin/src/com/hamsoft/Computer.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../learn-kotlin/src/com/hamsoft/Customer.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../learn-kotlin/src/com/hamsoft/Doctor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../learn-kotlin/src/com/hamsoft/Drawable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../learn-kotlin/src/com/hamsoft/HelloWorld.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../learn-kotlin/src/com/hamsoft/Lambads.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../learn-kotlin/src/com/hamsoft/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../learn-kotlin/src/com/hamsoft/SavingsAccount.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../learn-kotlin/src/com/hamsoft/Start.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../learn-kotlin/src/com/hamsoft/Student.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../learn-kotlin/src/com/hamsoft/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../learn-kotlin/src/com/hamsoft/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../learn-kotlin/src/com/hamsoft/Tests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../learn-kotlin/src/com/hamsoft/UserStatus.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../learn-kotlin/src/com/hamsoft/Utility.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../learn-kotlin/src/com/hamsoft/Vehicle.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../learn-kotlin/src/com/hamsoft/functions.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../masterblog/src/main/kotlin/com/hamsoft/masterblog/controller/CustomerController.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../masterblog/src/main/kotlin/com/hamsoft/masterblog/entity/Customer.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../masterblog/src/main/kotlin/com/hamsoft/masterblog/repository/CustomerRepository.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../masterblog/src/main/kotlin/com/hamsoft/masterblog/service/CustomerService.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../masterblog/src/main/kotlin/com/hamsoft/masterblog/service/impl/CustomerServiceImpl.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../microservice" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mortgage" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myKotlin/out/production/myKotlin/com/hamsoft/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myKotlin/src/com/hamsoft/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../posmgmt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../postesttool/src/main/java/com/hamsoft/postesttool/domain/Country.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../postesttool/src/main/java/com/hamsoft/postesttool/domain/keys.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rest-api" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sample-spring-microservices" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shopizer" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-batch/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-batch/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-batch/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-batch/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-batch/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-batch/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-batch/src/main/java/com/hamsoft/springbatch/Repository/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-batch/src/main/java/com/hamsoft/springbatch/SpringBatchApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-batch/src/main/java/com/hamsoft/springbatch/batch/BatchConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-batch/src/main/java/com/hamsoft/springbatch/batch/Processor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-batch/src/main/java/com/hamsoft/springbatch/batch/Reader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-batch/src/main/java/com/hamsoft/springbatch/batch/Writer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-batch/src/main/java/com/hamsoft/springbatch/controller/JobInvokerController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-batch/src/main/java/com/hamsoft/springbatch/domain/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-batch/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-batch/src/test/java/com/hamsoft/springbatch/SpringBatchApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-microservices-series" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-cache/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-cache/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-cache/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-cache/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-cache/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-cache/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-cache/src/main/java/com/hamosft/springcache/SpringCacheApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-cache/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-cache/src/test/java/com/hamosft/springcache/SpringCacheApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-data-jpa-auditing/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-data-jpa-auditing/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-data-jpa-auditing/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-data-jpa-auditing/ReadMe.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-data-jpa-auditing/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-data-jpa-auditing/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-data-jpa-auditing/src/main/java/org/programming/mitra/Action.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-data-jpa-auditing/src/main/java/org/programming/mitra/Auditable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-data-jpa-auditing/src/main/java/org/programming/mitra/AuditorAwareImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-data-jpa-auditing/src/main/java/org/programming/mitra/BeanUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-data-jpa-auditing/src/main/java/org/programming/mitra/File.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-data-jpa-auditing/src/main/java/org/programming/mitra/FileEntityListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-data-jpa-auditing/src/main/java/org/programming/mitra/FileHistory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-data-jpa-auditing/src/main/java/org/programming/mitra/FileHistoryRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-data-jpa-auditing/src/main/java/org/programming/mitra/FileRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-data-jpa-auditing/src/main/java/org/programming/mitra/JpaConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-data-jpa-auditing/src/main/java/org/programming/mitra/SpringDataJpaAuditingApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-data-jpa-auditing/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-encache3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-hmac-rest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-mvc-rest-mockito-master.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-oauth-jwt/src/main/java/com/hamsoft/springoauthjwt/configuration/CustomOauth2RequestFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-oauth-jwt/src/main/java/com/hamsoft/springoauthjwt/configuration/CustomTokenEnhancer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-oauth-jwt/src/main/java/com/hamsoft/springoauthjwt/configuration/OAuth2Configuration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-oauth-jwt/src/main/java/com/hamsoft/springoauthjwt/configuration/ResourceServerConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-oauth-jwt/src/main/java/com/hamsoft/springoauthjwt/configuration/WebSecurityConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-oauth-jwt/src/main/java/com/hamsoft/springoauthjwt/entity/BaseIdEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-oauth-jwt/src/main/java/com/hamsoft/springoauthjwt/entity/Permission.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-oauth-jwt/src/main/java/com/hamsoft/springoauthjwt/entity/Role.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-oauth-jwt/src/main/java/com/hamsoft/springoauthjwt/entity/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-oauth-jwt/src/main/java/com/hamsoft/springoauthjwt/model/CustomPrincipal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-oauth-jwt/src/main/java/com/hamsoft/springoauthjwt/repository/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-oauth-jwt/src/main/java/com/hamsoft/springoauthjwt/service/CustomUserDetailsService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-oauth-jwt/src/main/java/com/hamsoft/springoauthjwt/util/CustomAccessTokenConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-oauth-jwt/src/main/java/com/hamsoft/springoauthjwt/util/CustomUserAuthenticationConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-oauth-jwt/src/main/resources/jwt.jks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-oauth-jwt/src/main/resources/resource-server-public-key" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-oauth/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-oauth/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-oauth/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-oauth/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-oauth/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-oauth/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-oauth/src/main/java/com/hamsoft/springoauth/SpringOauthApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-oauth/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-oauth/src/test/java/com/hamsoft/springoauth/SpringOauthApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-rest-ecommerce" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/License.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/java/org/baeldung/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/java/org/baeldung/captcha/CaptchaService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/java/org/baeldung/captcha/CaptchaSettings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/java/org/baeldung/captcha/GoogleResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/java/org/baeldung/captcha/ICaptchaService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/java/org/baeldung/captcha/ReCaptchaAttemptService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/java/org/baeldung/persistence/CustomMySQLDialect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/java/org/baeldung/persistence/dao/PasswordResetTokenRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/java/org/baeldung/persistence/dao/PrivilegeRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/java/org/baeldung/persistence/dao/RoleRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/java/org/baeldung/persistence/dao/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/java/org/baeldung/persistence/dao/VerificationTokenRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/java/org/baeldung/persistence/model/PasswordResetToken.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/java/org/baeldung/persistence/model/Privilege.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/java/org/baeldung/persistence/model/Role.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/java/org/baeldung/persistence/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/java/org/baeldung/persistence/model/VerificationToken.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/java/org/baeldung/registration/OnRegistrationCompleteEvent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/java/org/baeldung/registration/listener/RegistrationListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/java/org/baeldung/security/ActiveUserStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/java/org/baeldung/security/AuthenticationFailureListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/java/org/baeldung/security/AuthenticationSuccessEventListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/java/org/baeldung/security/CustomAuthenticationFailureHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/java/org/baeldung/security/CustomRememberMeServices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/java/org/baeldung/security/ISecurityUserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/java/org/baeldung/security/LoggedUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/java/org/baeldung/security/LoginAttemptService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/java/org/baeldung/security/MyCustomLoginAuthenticationSuccessHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/java/org/baeldung/security/MyLogoutSuccessHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/java/org/baeldung/security/MySimpleUrlAuthenticationSuccessHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/java/org/baeldung/security/MyUserDetailsService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/java/org/baeldung/security/UserSecurityService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/java/org/baeldung/security/google2fa/CustomAuthenticationProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/java/org/baeldung/security/google2fa/CustomWebAuthenticationDetails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/java/org/baeldung/security/google2fa/CustomWebAuthenticationDetailsSource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/java/org/baeldung/service/IUserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/java/org/baeldung/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/java/org/baeldung/spring/AppConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/java/org/baeldung/spring/CaptchaConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/java/org/baeldung/spring/MvcConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/java/org/baeldung/spring/PersistenceJPAConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/java/org/baeldung/spring/SecSecurityConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/java/org/baeldung/spring/ServiceConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/java/org/baeldung/spring/SetupDataLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/java/org/baeldung/spring/SpringTaskConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/java/org/baeldung/task/TokensPurgeTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/java/org/baeldung/validation/EmailExistsException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/java/org/baeldung/validation/EmailValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/java/org/baeldung/validation/PasswordConstraintValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/java/org/baeldung/validation/PasswordMatches.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/java/org/baeldung/validation/PasswordMatchesValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/java/org/baeldung/validation/UserValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/java/org/baeldung/validation/ValidEmail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/java/org/baeldung/validation/ValidPassword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/java/org/baeldung/web/controller/OldRegistrationController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/java/org/baeldung/web/controller/RegistrationCaptchaController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/java/org/baeldung/web/controller/RegistrationController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/java/org/baeldung/web/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/java/org/baeldung/web/dto/PasswordDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/java/org/baeldung/web/dto/UserDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/java/org/baeldung/web/error/InvalidOldPasswordException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/java/org/baeldung/web/error/ReCaptchaInvalidException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/java/org/baeldung/web/error/ReCaptchaUnavailableException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/java/org/baeldung/web/error/RestResponseEntityExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/java/org/baeldung/web/error/UserAlreadyExistException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/java/org/baeldung/web/error/UserNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/java/org/baeldung/web/util/GenericResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/resources/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/resources/logback.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/resources/messages_en.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/resources/messages_es_ES.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/resources/persistence.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/resources/templates/admin.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/resources/templates/badUser.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/resources/templates/changePassword.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/resources/templates/console.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/resources/templates/customLogin.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/resources/templates/emailError.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/resources/templates/expiredAccount.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/resources/templates/forgetPassword.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/resources/templates/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/resources/templates/homepage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/resources/templates/invalidSession.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/resources/templates/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/resources/templates/loginRememberMe.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/resources/templates/logout.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/resources/templates/qrcode.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/resources/templates/registration.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/resources/templates/registrationCaptcha.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/resources/templates/registrationConfirm.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/resources/templates/successRegister.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/resources/templates/updatePassword.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/resources/templates/users.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/resources/webSecurityConfig-basic.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/resources/webSecurityConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/webapp/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/webapp/resources/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/main/webapp/resources/pwstrength.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/test/java/org/baeldung/spring/ConfigTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/test/java/org/baeldung/spring/TestDbConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/test/java/org/baeldung/spring/TestIntegrationConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/test/java/org/baeldung/spring/TestTaskConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/test/java/org/baeldung/test/ChangePasswordIntegrationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/test/java/org/baeldung/test/GetLoggedUsersIntegrationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/test/java/org/baeldung/test/IntegrationSuite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/test/java/org/baeldung/test/RegistrationControllerIntegrationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/test/java/org/baeldung/test/RegistrationPasswordLiveTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/test/java/org/baeldung/test/SpringSecurityRolesIntegrationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/test/java/org/baeldung/test/TokenExpirationIntegrationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/test/java/org/baeldung/test/UserIntegrationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/test/java/org/baeldung/test/UserServiceIntegrationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-security-registration-master/src/test/resources/logback-test.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-test/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-test/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-test/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-test/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-test/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-test/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-test/src/main/java/com/hamsoft/springtest/ConfigurationProjectProperties.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-test/src/main/java/com/hamsoft/springtest/LogTomcatAutoConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-test/src/main/java/com/hamsoft/springtest/SpringTestApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-test/src/main/java/com/hamsoft/springtest/controller/UsersController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-test/src/main/java/com/hamsoft/springtest/entity/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-test/src/main/java/com/hamsoft/springtest/repository/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-test/src/main/java/com/hamsoft/springtest/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-test/src/main/java/com/hamsoft/springtest/service/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-test/src/main/resources/META-INF/spring.factories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-test/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-test/src/main/resources/templates/add.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-test/src/main/resources/templates/list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-test/src/main/resources/templates/update.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-test/src/test/java/com/hamsoft/springtest/SpringTestApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-testing-master.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springboot-security-thymeleaf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auth-service/src/main/java/com/hamsoft/authservice/config/OAuth2Configuration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auth-service/src/main/java/com/hamsoft/authservice/config/WebSecurityConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auth-service/src/main/java/com/hamsoft/authservice/domain/Authority.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auth-service/src/main/java/com/hamsoft/authservice/domain/Role.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auth-service/src/main/java/com/hamsoft/authservice/domain/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auth-service/src/main/java/com/hamsoft/authservice/domain/UserRole.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auth-service/src/main/java/com/hamsoft/authservice/enums/Authorities.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auth-service/src/main/java/com/hamsoft/authservice/repository/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auth-service/src/main/java/com/hamsoft/authservice/service/CustomUserDetailsService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-service/src/main/resources/config/auth-service.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-service/src/main/resources/config/gateway-service.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-service/src/main/resources/config/monitoring.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-service/src/main/resources/config/registry-service.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-service/src/main/resources/config/test-service.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-service/src/main/resources/config/turbine-stream-service.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway-service/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-service/src/main/java/com/hamsoft/testservice/HelloResource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springclouddeploy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springoauth2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tams-backend" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tcs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tcs-config/application-dev.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tcs-config/application-prod.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tcs-config/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../team-apt/20190408233537.param" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../team-apt/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../team-apt/src/main/java/com/hamsoft/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../team-apt/src/main/java/com/hamsoft/BattleComponent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../team-apt/src/main/java/com/hamsoft/Boltons.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../team-apt/src/main/java/com/hamsoft/BraavosModule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../team-apt/src/main/java/com/hamsoft/Cash.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../team-apt/src/main/java/com/hamsoft/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../team-apt/src/main/java/com/hamsoft/CoffeeMaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../team-apt/src/main/java/com/hamsoft/CoffeeModule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../team-apt/src/main/java/com/hamsoft/CoffeeShopComponent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../team-apt/src/main/java/com/hamsoft/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../team-apt/src/main/java/com/hamsoft/Department.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../team-apt/src/main/java/com/hamsoft/ElectricHeater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../team-apt/src/main/java/com/hamsoft/House.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../team-apt/src/main/java/com/hamsoft/Soldier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../team-apt/src/main/java/com/hamsoft/Starks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../team-apt/src/main/java/com/hamsoft/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../team-apt/src/main/java/com/hamsoft/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../team-apt/src/main/java/com/hamsoft/Thermosiphon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../team-apt/src/main/java/com/hamsoft/War.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../therecruiter/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../therecruiter/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../therecruiter/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../therecruiter/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../therecruiter/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../therecruiter/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../therecruiter/src/main/java/com/hamsoft/therecruiter/TherecruiterApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../therecruiter/src/main/java/com/hamsoft/therecruiter/domain/AbstractAuditingEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../therecruiter/src/main/java/com/hamsoft/therecruiter/domain/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../therecruiter/src/main/java/com/hamsoft/therecruiter/domain/State.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../therecruiter/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../therecruiter/src/test/java/com/hamsoft/therecruiter/TherecruiterApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../thymeleaf-spring-data-dialect" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tms-backup/springmicroservice/account-service/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tms-backup/springmicroservice/account-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tms-backup/springmicroservice/account-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tms-backup/springmicroservice/account-service/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tms-backup/springmicroservice/account-service/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tms-backup/springmicroservice/account-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tms-backup/springmicroservice/account-service/src/main/java/com/hamsoft/accountservice/AccountServiceApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tms-backup/springmicroservice/account-service/src/main/java/com/hamsoft/accountservice/api/AccountController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tms-backup/springmicroservice/account-service/src/main/java/com/hamsoft/accountservice/model/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tms-backup/springmicroservice/account-service/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tms-backup/springmicroservice/account-service/src/test/java/com/hamsoft/accountservice/AccountServiceApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tms-backup/springmicroservice/customer-service/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tms-backup/springmicroservice/customer-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tms-backup/springmicroservice/customer-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tms-backup/springmicroservice/customer-service/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tms-backup/springmicroservice/customer-service/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tms-backup/springmicroservice/customer-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tms-backup/springmicroservice/customer-service/src/main/java/com/hamsoft/customerservice/CustomerServiceApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tms-backup/springmicroservice/customer-service/src/main/java/com/hamsoft/customerservice/api/CustomerController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tms-backup/springmicroservice/customer-service/src/main/java/com/hamsoft/customerservice/feign/AccountClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tms-backup/springmicroservice/customer-service/src/main/java/com/hamsoft/customerservice/model/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tms-backup/springmicroservice/customer-service/src/main/java/com/hamsoft/customerservice/model/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tms-backup/springmicroservice/customer-service/src/main/java/com/hamsoft/customerservice/model/CustomerType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tms-backup/springmicroservice/customer-service/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tms-backup/springmicroservice/customer-service/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tms-backup/springmicroservice/customer-service/src/test/java/com/hamsoft/customerservice/CustomerServiceApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tms-backup/springmicroservice/discovery-service/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tms-backup/springmicroservice/discovery-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tms-backup/springmicroservice/discovery-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tms-backup/springmicroservice/discovery-service/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tms-backup/springmicroservice/discovery-service/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tms-backup/springmicroservice/discovery-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tms-backup/springmicroservice/discovery-service/src/main/java/com/hamsoft/discoveryservice/DiscoveryServiceApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tms-backup/springmicroservice/discovery-service/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tms-backup/springmicroservice/discovery-service/src/test/java/com/hamsoft/discoveryservice/DiscoveryServiceApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tms-backup/springmicroservice/gateway-service/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tms-backup/springmicroservice/gateway-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tms-backup/springmicroservice/gateway-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tms-backup/springmicroservice/gateway-service/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tms-backup/springmicroservice/gateway-service/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tms-backup/springmicroservice/gateway-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tms-backup/springmicroservice/gateway-service/src/main/java/com/hamsoft/gatewayservice/GatewayServiceApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tms-backup/springmicroservice/gateway-service/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tms-backup/springmicroservice/gateway-service/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tms-backup/springmicroservice/gateway-service/src/test/java/com/hamsoft/gatewayservice/GatewayServiceApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tms-backup/springmicroservice/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tms-backup/springmicroservice/zikpin-service/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tms-backup/springmicroservice/zikpin-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tms-backup/springmicroservice/zikpin-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tms-backup/springmicroservice/zikpin-service/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tms-backup/springmicroservice/zikpin-service/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tms-backup/springmicroservice/zikpin-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tms-backup/springmicroservice/zikpin-service/src/main/java/com/hamsoft/zikpinservice/ZikpinServiceApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tms-backup/springmicroservice/zikpin-service/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tms-backup/springmicroservice/zikpin-service/src/test/java/com/hamsoft/zikpinservice/ZikpinServiceApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tms-backup/tcs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled folder/tcs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled1/src/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-service/src/main/resources/config/test-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config-service/src/main/resources/config/test-service.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-service/src/main/java/com/hamsoft/testservice/HelloResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/test-service/src/main/java/com/hamsoft/testservice/HelloResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-service/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/test-service/src/main/resources/bootstrap.yml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -706,53 +40,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config-service/src/main/resources/config/auth-service.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/monitoring/src/main/resources/bootstrap.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config-service/src/main/resources/config/gateway-service.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="20" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config-service/src/main/resources/config/turbine-stream-service.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/auth-service/src/main/resources/bootstrap.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test-service/src/main/resources/bootstrap.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="272">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
         </entry>
@@ -775,14 +64,61 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config-service/src/main/resources/config/gateway-service.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="267">
+              <caret line="33" column="29" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config-service/src/main/resources/config/test-service.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test-service/src/main/java/com/hamsoft/testservice/HelloResource.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="22" />
+            <state relative-caret-position="144">
+              <caret line="21" column="42" lean-forward="true" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#746#747#0" expanded="true" />
+                <element signature="e#815#816#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test-service/src/main/resources/bootstrap.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="22" lean-forward="true" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/registry-service/src/main/resources/bootstrap.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gateway-service/src/main/resources/bootstrap.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -797,7 +133,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -809,7 +145,6 @@
         <option value="$PROJECT_DIR$/gateway-service/src/main/resources/bootstrap.yml" />
         <option value="$PROJECT_DIR$/auth-service/src/main/java/com/hamsoft/authservice/enums/Authorities.java" />
         <option value="$PROJECT_DIR$/auth-service/src/main/java/com/hamsoft/authservice/service/CustomUserDetails.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/registry-service/src/main/java/com/hamsoft/registryservice/RegistryServiceApplication.java" />
         <option value="$PROJECT_DIR$/registry-service/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/registry-service/src/main/resources/application.yml" />
@@ -839,14 +174,15 @@
         <option value="$PROJECT_DIR$/auth-service/src/main/java/com/hamsoft/authservice/AuthServiceApplication.java" />
         <option value="$PROJECT_DIR$/test-service/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/auth-service/pom.xml" />
-        <option value="$PROJECT_DIR$/config-service/src/main/resources/config/test-service.yml" />
         <option value="$PROJECT_DIR$/test-service/pom.xml" />
         <option value="$PROJECT_DIR$/test-service/src/main/java/com/hamsoft/testservice/TestServiceApplication.java" />
-        <option value="$PROJECT_DIR$/test-service/src/main/resources/bootstrap.yml" />
         <option value="$PROJECT_DIR$/config-service/src/main/resources/config/gateway-service.yml" />
         <option value="$PROJECT_DIR$/monitoring/pom.xml" />
         <option value="$PROJECT_DIR$/monitoring/src/main/resources/bootstrap.yml" />
         <option value="$PROJECT_DIR$/monitoring/src/main/java/com/hamsoft/monitoring/MonitoringApplication.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/test-service/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/config-service/src/main/resources/config/test-service.yml" />
         <option value="$PROJECT_DIR$/test-service/src/main/java/com/hamsoft/testservice/HelloResource.java" />
       </list>
     </option>
@@ -858,10 +194,9 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="width" value="1440" />
-    <option name="height" value="829" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -869,7 +204,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="Course" />
       <pane id="ProjectPane">
         <subPane>
@@ -881,80 +216,7 @@
             <path>
               <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
               <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="auth-service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="auth-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="auth-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="auth-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
               <item name="config-service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="config-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="config-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="config-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="config-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="configservice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="config-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="config-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
@@ -964,42 +226,20 @@
             <path>
               <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
               <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="monitoring" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="monitoring" type="462c0819:PsiDirectoryNode" />
+              <item name="gateway-service" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
               <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="monitoring" type="462c0819:PsiDirectoryNode" />
+              <item name="gateway-service" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
               <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="monitoring" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="monitoring" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="monitoring" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="monitoring" type="462c0819:PsiDirectoryNode" />
+              <item name="gateway-service" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
@@ -1007,51 +247,46 @@
             <path>
               <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
               <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="test-service" type="462c0819:PsiDirectoryNode" />
+              <item name="registry-service" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
               <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="test-service" type="462c0819:PsiDirectoryNode" />
+              <item name="registry-service" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
               <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="test-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="test-service" type="462c0819:PsiDirectoryNode" />
+              <item name="registry-service" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
               <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="test-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="testservice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="test-service" type="462c0819:PsiDirectoryNode" />
+              <item name="registry-service" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="registry-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="test-service" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1061,7 +296,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559315412091" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560724041820" />
     <property name="jdk.selected.JAVA_MODULE" value="11" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -1214,14 +449,25 @@
       <workItem from="1559201174762" duration="7562000" />
       <workItem from="1559213186652" duration="25178000" />
       <workItem from="1559315647023" duration="589000" />
+      <workItem from="1559335838207" duration="542000" />
+      <workItem from="1559548493589" duration="773000" />
+      <workItem from="1559735767298" duration="572000" />
+      <workItem from="1559805726405" duration="595000" />
+      <workItem from="1560154898303" duration="33000" />
+      <workItem from="1560498719919" duration="1848000" />
+      <workItem from="1560690587295" duration="364000" />
+      <workItem from="1560690983093" duration="63000" />
+      <workItem from="1560691075655" duration="545000" />
+      <workItem from="1560692495317" duration="444000" />
+      <workItem from="1560721713213" duration="1819000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40703000" />
+    <option name="totallyTimeSpent" value="48301000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24892704" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -1241,7 +487,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Amazon EC2" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32891566" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3283582" />
       <window_info anchor="bottom" id="Docker" order="9" />
       <window_info anchor="bottom" id="AWS Tail" order="10" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="11" />
@@ -1253,7 +499,7 @@
       <window_info anchor="bottom" id="Spring" order="17" />
       <window_info anchor="bottom" id="Java Enterprise" order="18" />
       <window_info anchor="bottom" id="Messages" order="19" weight="0.32891566" />
-      <window_info active="true" anchor="bottom" id="Run Dashboard" order="20" visible="true" weight="0.4120482" />
+      <window_info active="true" anchor="bottom" id="Run Dashboard" order="20" visible="true" weight="0.39518073" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -1357,14 +603,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/auth-service/src/main/java/com/hamsoft/authservice/config/WebSecurityConfig.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
@@ -1385,43 +623,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/turbine-stream-service/src/main/resources/bootstrap.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/turbine-stream-service/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="301">
           <caret line="40" selection-start-line="40" selection-end-line="40" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/turbine-stream-service/src/main/java/com/hamsoft/turbinestreamservice/TurbineStreamServiceApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="72" selection-start-line="4" selection-start-column="72" selection-end-line="4" selection-end-column="72" />
-        </state>
-      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
     <entry file="file://$PROJECT_DIR$/config-service/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-142">
           <caret line="31" column="7" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
         </state>
       </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
     <entry file="file://$PROJECT_DIR$/gateway-service/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="556">
           <caret line="46" selection-start-line="46" selection-end-line="46" />
         </state>
       </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
     <entry file="file://$PROJECT_DIR$/config-service/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
@@ -1459,93 +683,41 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/registry-service/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="530">
           <caret line="50" column="21" selection-start-line="50" selection-start-column="21" selection-end-line="50" selection-end-column="21" />
         </state>
       </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
     <entry file="file://$PROJECT_DIR$/auth-service/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="123">
           <caret line="38" column="4" selection-start-line="38" selection-start-column="4" selection-end-line="41" selection-end-column="21" />
         </state>
       </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
     <entry file="file://$PROJECT_DIR$/test-service/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="35" selection-start-line="35" selection-end-line="35" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gateway-service/src/main/resources/bootstrap.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/registry-service/src/main/resources/bootstrap.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
     <entry file="file://$PROJECT_DIR$/monitoring/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-292">
           <caret line="38" column="8" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/monitoring/src/main/java/com/hamsoft/monitoring/MonitoringApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config-service/src/main/resources/config/test-service.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config-service/src/main/resources/config/registry-service.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config-service/src/main/resources/config/auth-service.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
     <entry file="file://$PROJECT_DIR$/monitoring/src/main/resources/bootstrap.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config-service/src/main/resources/config/gateway-service.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="20" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -1563,10 +735,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test-service/src/main/resources/bootstrap.yml">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="225">
+          <caret line="15" column="38" lean-forward="true" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monitoring/src/main/java/com/hamsoft/monitoring/MonitoringApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/turbine-stream-service/src/main/java/com/hamsoft/turbinestreamservice/TurbineStreamServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/turbine-stream-service/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-service/src/main/resources/config/registry-service.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
@@ -1584,12 +791,56 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/config-service/src/main/resources/config/auth-service.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gateway-service/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-service/src/main/resources/config/gateway-service.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="33" column="29" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-service/src/main/resources/config/test-service.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/registry-service/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-service/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="22" lean-forward="true" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test-service/src/main/java/com/hamsoft/testservice/HelloResource.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="22" />
+        <state relative-caret-position="144">
+          <caret line="21" column="42" lean-forward="true" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#746#747#0" expanded="true" />
+            <element signature="e#815#816#0" expanded="true" />
           </folding>
         </state>
       </provider>

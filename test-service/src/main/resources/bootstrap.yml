@@ -11,3 +11,6 @@ management:
     web:
       exposure:
         include: "*"
+
+#main:
+#  allow-bean-definition-overriding: true #i dont remember why but i think there is a bug with spring cloud and OAuth2ClientContext
