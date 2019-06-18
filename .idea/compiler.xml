@@ -11,7 +11,6 @@
         <module name="gateway-service" />
         <module name="monitoring" />
         <module name="registry-service" />
-        <module name="springcloud" />
         <module name="test-service" />
         <module name="turbine-stream-service" />
       </profile>
@@ -23,6 +22,7 @@
       <module name="monitoring" target="11" />
       <module name="registry-service" target="11" />
       <module name="registrys-service" target="11" />
+      <module name="springcloud" target="11" />
       <module name="test-service" target="11" />
       <module name="turbine-stream-service" target="11" />
     </bytecodeTargetLevel>

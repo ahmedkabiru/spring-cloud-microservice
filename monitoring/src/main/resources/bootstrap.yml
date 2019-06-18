@@ -6,6 +6,14 @@ spring:
       uri: http://localhost:8888
       fail-fast: true
 
-turbine:
-  appConfig: test-service
-  clusterNameExpression: new String("default")
+#turbine:
+##  aggregator:
+##    clusterConfig: TEST-SERVICE
+#  appConfig: test-service
+#  clusterNameExpression: new String("default")
+
+
+#turbine:
+#  aggregator:
+#    clusterConfig: TEST-SERVICE
+#  appConfig: test-service

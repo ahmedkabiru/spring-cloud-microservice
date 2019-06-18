@@ -5,15 +5,13 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 import org.springframework.cloud.netflix.hystrix.dashboard.EnableHystrixDashboard;
 import org.springframework.cloud.netflix.turbine.EnableTurbine;
-import org.springframework.stereotype.Controller;
-import org.springframework.web.bind.annotation.RequestMapping;
 
 
-@EnableDiscoveryClient
+
 @SpringBootApplication
 @EnableHystrixDashboard
 @EnableTurbine
-//@Controller
+@EnableDiscoveryClient
 public class MonitoringApplication {
 
 

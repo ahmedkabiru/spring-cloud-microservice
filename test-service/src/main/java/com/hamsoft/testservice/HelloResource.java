@@ -17,7 +17,7 @@ public class HelloResource {
 
     @HystrixCommand(fallbackMethod = "fallback", groupKey = "Hello",
             commandKey = "hello",commandProperties = {
-            @HystrixProperty(name = "execution.isolation.thread.timeoutInMilliseconds", value = "4000")
+            @HystrixProperty(name = "execution.isolation.thread.timeoutInMilliseconds", value = "1000")
     },
             threadPoolKey = "helloThread")
     @GetMapping

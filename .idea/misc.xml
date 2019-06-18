@@ -13,6 +13,7 @@
         <option value="$PROJECT_DIR$/monitoring/pom.xml" />
         <option value="$PROJECT_DIR$/turbine-stream-service/pom.xml" />
         <option value="$PROJECT_DIR$/test-service/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
